@@ -1,5 +1,6 @@
 #Programmer: Tyler Stringer                             Date: 5-1-15
 #Description: This program generates a 3D random walk.
+#Copyright: Attribution 4.0 International (CC BY 4.0)
 
 1; #The "1" ensures Octave doesn't think that this script is a function.
 
